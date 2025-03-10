@@ -127,3 +127,7 @@
     @apply bg-background text-foreground;
   }
 }
+
+.container {
+  min-width: 1280px;
+}
